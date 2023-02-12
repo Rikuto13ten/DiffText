@@ -17,11 +17,11 @@
         "all": false,
         "open": true
       },
-			"dialog": {
-				"all": true,
-				"open": true,
-				"save": true
-			}
+      "dialog": {
+        "all": true,
+        "open": true,
+        "save": true
+      }
     },
     "bundle": {
       "active": true,
@@ -38,7 +38,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.diff.dev",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
